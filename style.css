@@ -1,0 +1,13 @@
+table td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2em;
+    font-size: larger;
+}
+table {
+    margin: 4em;
+}
+h1 {
+    text-align: center;
+    margin-top: 2em;
+}
